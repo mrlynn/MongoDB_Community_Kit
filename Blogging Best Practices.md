@@ -1,11 +1,11 @@
-##Blogging Best Practices
+## Blogging Best Practices
 
-###Why you should blog?
+### Why you should blog?
 
 Blogging is a great way to share your experiences. Blogging on a topic frequently establishes you as a technology thought leader, giving your thoughts a broad audience and making them available to readers for years.
 
 
-###Writing a great technical post
+### Writing a great technical post
 
 _Have a thesis_ Like high school or college essays, great blog posts have a clear message. When you begin writing your post, start by forming a key message or statement. Ask yourself, what do I want the reader to take away from this post? A good article will typically leave readers with a key statement. Everything else in your post is supporting evidence.
 
@@ -22,7 +22,7 @@ _Keep it short_ Blog posts don’t need to be long. In fact, I would urge you to
 _Build series_ Blog series are a great way to build momentum on your blog. Starting a series publicly commits you to a series of topics, and gets your readers interested in reading.
 
 
-###How to generate ideas
+### How to generate ideas
 
 Sometimes it can be hard to know where to start when it comes to blogging. Sometimes we think that our day-to-day can't possibly be publishable! Our experiences-- especially in the context of open source software-- can be incredibly valuable when shared.  Sometimes what may seem like a mundane task to you is actually valuable and informative for a new MongoDB user.
 

@@ -3,9 +3,9 @@ Contributing Code
 
 Open source software is driven by community contribution, and one of the most effective ways to participate is by contributing code to either the [MongoDB Server Repo](https://github.com/mongodb/mongo) or one of the [many related projects](http://docs.mongodb.org/ecosystem/drivers/) such as drivers and libraries.
 
-###Guidelines for Contributing:
+### Guidelines for Contributing:
 
-####Pre-Pull Request: Searching for Issues
+#### Pre-Pull Request: Searching for Issues
 
 Before you submit a pull request to the MongoDB Server or any MongoDB open source tool, please review the [open tickets in Jira](https://jira.mongodb.org/browse/). For Server Contributions we suggest reviewing the [Server Roadmap](https://jira.mongodb.org/browse/SERVER#selectedTab=com.atlassian.jira.plugin.system.project%3Aroadmap-panel) on Jira to find issues that are scheduled but not assigned. These will improve the chances of your patch going into a future release. 
 
@@ -17,7 +17,7 @@ For upcoming releases, issues are ordered by "fixVersion":
 
 Avoid tickets with fixVersion "Needs Triage". This is the default fixVersion for new tickets, and it indicates that no decision has been made on the ticket request for the roadmap.
 
-#####Pull Requests to the MongoDB Server
+##### Pull Requests to the MongoDB Server
 
 Before you submit a pull request to the MongoDB Server, please complete the following:
 
@@ -26,7 +26,7 @@ Before you submit a pull request to the MongoDB Server, please complete the foll
  * Make sure your code request is specific to the changes in a single Jira issue.  If you have made multiple commits, it would be preferable to [squash](http://git-scm.com/book/en/Git-Tools-Rewriting-History#Squashing-Commits) these into a single commit before review of the pull request.  If your change fixes multiple Jira issues, either split these into discrete pull requests or include some detail on why that is not possible.
  * Sign the [MongoDB Contributor Agreement](http://www.mongodb.com/legal/contributor-agreement).
 
-#####The Life-cycle of a Pull Request 
+##### he Life-cycle of a Pull Request 
 
 When you submit a pull request, here is what happens:
 
@@ -35,7 +35,7 @@ When you submit a pull request, here is what happens:
  * If your pull request matches a ticket and is aligned with the Server Roadmap, it will get triaged and reviewed by the Kernel team.
  * Pull requests that have been reviewed and approved will be signed off and merged into a development branch and the associated Jira SERVER issue will be resolved with an expected fixVersion.
 
-####Best Practices
+#### Best Practices
 
 * Never introduce breaking backward changes.
 * Write inline documentation (comments) so project maintainers and others can understand your code.

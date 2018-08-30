@@ -1,8 +1,8 @@
-#Speaking about MongoDB
+# Speaking about MongoDB
 
-##Why
+## Why
 
-###It's Good for You
+### It's Good for You
 
 * Personal Name Recognition: Get your name out there with MongoDB enthusiasts
 * Association with a great product gives you credibility
@@ -12,7 +12,7 @@
 * Showcase your company's technical expertise
 * Recruit candidates with MongoDB interest or skills
 
-###It's Good for the Community
+### It's Good for the Community
 
 * Presentations have direct impact on both individual users and the larger community
 * Audience members want to learn from you and from your experience
@@ -20,9 +20,9 @@
 * Every presentation given grows the collective knowledge base about MongoDB
 * You help create a community around MongoDB
 
-##What
+## What
 
-###What Should You Talk About? 
+### What Should You Talk About? 
 
 MongoDB users have different levels of experience with MongoDB, but everyone wants to learn more. You can provide the knowledge and expertise to make future MongoDB users as successful as you. If you're going to give a presentation, talk about your experience and your areas of expertise.
 
@@ -53,14 +53,14 @@ attention to your thoughts and expertise.
 * Code samples: As a rule of thumb, keep code samples between 8-10 lines for simple readability. Highlight the important lines. 
 * Know your audience - The audience is generally knowledgeable about MongoDB and related technologies. They are interested in hearing your insights and experience so they can become better MongoDB developers.
 
-####Other great resources to help you build well-designed slides:
+#### Other great resources to help you build well-designed slides:
 
 [Duarte Designs](http://www.duarte.com) have great insight into presentation design and storytelling. Check out their [blog](http://www.duarte.com/blog/) for 
 weekly tips.
 
 Remember: Public speaking doesn’t have to be scary! 
 
-##Where Can You Speak About MongoDB?
+## Where Can You Speak About MongoDB?
 
 There are thousands of places around the world where you can speak about MongoDB. Here are some places to share your knowledge:
 
@@ -70,7 +70,7 @@ There are thousands of places around the world where you can speak about MongoDB
 * [MongoDB Days](http://www.mongodb.com/events): Full day events for more advanced and more technical presentations.
 
 
-####Things to Remember Before You Speak at the Event:
+#### Things to Remember Before You Speak at the Event:
 
 * Ask the organizer what time you should arrive (also be courteous and arrive on time).
 * Make sure your computer or presentation will be compatible with the presentation setup available at the event. Ask the organizer to make sure you have the correct connecting equipment. If you need a different adapter for your laptop, please try to bring it with you.

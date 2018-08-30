@@ -4,7 +4,7 @@ As a MongoDB user, you have the opportunity to make a large impact on a vibrant 
 and engineering professionals. You can:
 
 * Give a talk on how you've used MongoDB at your company, and what you've learned in the process.
-* Write a blog post with practical advice on how to use MongoDB in production (get featured on [planet.mongodb.org](http://planet.mongodb.org)!)
+* Write a blog post with practical advice on how to use MongoDB in production (get featured on [mongodb.com/blog](http://mongodb.com/blog)!)
 * Create open source tools, frameworks, or drivers for MongoDB that enable new uses for MongoDB.
 * Create a local User Group that engages community members and advocates 
 

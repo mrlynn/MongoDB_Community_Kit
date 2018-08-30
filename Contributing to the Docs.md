@@ -1,4 +1,4 @@
-##Contributing to the Docs
+## Contributing to the Docs
 
 Contributing to the docs is simple, but has a large payoff. Tens of thousands of people view these docs each day so it's a great way to have an impact immediately.
 
